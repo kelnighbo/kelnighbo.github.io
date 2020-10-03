@@ -1,14 +1,224 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: whitesmoke !important;
     width: 100vw;
     height: 100vh;
 }
 
-nav class {
-    background-color: whitesmoke;
+#overlay {
+    font-family: 'Merienda', cursive;
+    font-size: 75pt;
+    margin-top: 10px;
+    margin-left: 200px;
+    color: #3c4a40;
 }
 
-img src {
-    opacity: 50%;
+#image {
+    text-align: center; 
+    opacity: 80%;
+    margin-top: -25px;
+    width: 300px;
+    border-radius: 16px;
 }
 
+#image {
+    border-radius: 16px;
+}
+
+.nav-link {
+    color: black;
+}
+
+#overlay2 {
+    font-family: 'Chango', cursive;
+    margin-top: 200px;
+    font-size: 100pt;
+    margin-left: 850px;
+    color: #316091;
+}
+
+#creature {
+    width: 700px;
+    margin-top: -300px;
+    margin-left: 50px;
+}
+
+#overlay3 {
+    font-family: 'Chango', cursive;
+    font-size: 70pt;
+    color: rgb(14,230,148);
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#static {
+    width: 700px;
+    margin-top: -175px;
+    margin-left: 250px;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-left: 200px;
+    font-family: 'Chathura', sans-serif;
+    font-size: 80pt;
+}
+
+#API1 {
+    width: 300px;
+    margin-left: 55px;
+}
+
+#API2 {
+    width: 275px;
+    margin-left: 65px;
+}
+
+#imageOne {
+    width: 450px;
+    margin-top: 20px;
+}
+
+#imageTwo {
+    width: 600px;
+    margin-left: 50px;
+}
+
+#imageThree {
+    width: 350px;
+    margin-top: -10px;
+    margin-left: -55px;
+}
+
+#imageFour {
+    width: 600px;
+    margin-top: 20px;
+    margin-left: -20px;
+}
+
+#imageFive {
+    width: 600px;
+    margin-left: -200px;
+    margin-top: 10px;
+}
+
+#imageSix {
+    width: 400px;
+    margin-left: -40px;
+    margin-top: -20px;
+}
+
+#imageSeven {
+    width: 400px;
+    margin-top: -30px;
+}
+
+#imageEight {
+    width: 600px;
+    margin-top: 20px;
+    margin-left: -50px;
+}
+
+#imageNine {
+    width: 500px;
+    margin-top: 20px;
+}
+
+#imageTen {
+    width: 400px;
+    margin-top: -20px;
+    margin-left: -50px;
+}
+
+#imageTwelve {
+    width: 600px;
+    margin-top: -60px;
+}
+
+#image20 {
+    width: 600px;
+    margin-top: 60px;
+}
+
+#image21 {
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#image22 {
+    width: 400px;
+    margin-left: -65px;
+    margin-top: -50px;
+}
+
+#image23 {
+    width: 600px;
+    margin-top: 20px;
+    margin-left:-20px;
+}
+
+#image24 {
+    width: 600px;
+    margin-top: 20px;
+    margin-left: -200px;
+}
+
+#image25 {
+    width: 400px;
+    margin-left: -50px;
+}
+
+#image26 {
+    width: 400px;
+}
+
+#image27 {
+    width: 600px;
+    margin-left: -200px;
+    margin-top: -50px;
+}
+
+#image28 {
+    width: 600px;
+    margin-top: 20px;
+}
+
+#image29 {
+    width: 500px;
+    margin-top: -120px;
+    margin-left: -60px;
+}
+
+#image30 {
+    width: 600px;
+    margin-top: -10px;
+}
+
+#contact {
+    color: black;
+}
+
+#about {
+    color: black;
+}
+
+#image0 {
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 225px;
+}
+
+#bio {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    font-size: 15pt;
+}
+
+#image00 {
+    width: 800px;
+    margin-left: 125px;
+}
